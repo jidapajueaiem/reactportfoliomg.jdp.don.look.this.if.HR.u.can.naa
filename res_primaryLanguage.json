@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hello, I'm Mink",
-    "description": "👋 I am a Computer Engineering graduate with strong determination and a proactive mindset. I have hands-on experience in software development and basic network management. My studies at Suan Sunandha Rajabhat University strengthened my programming skills in Java and Python. I am a continuous learner who actively keeps up with emerging technologies and enjoys taking on new challenges that foster both professional growth and long-term career stability.",
+    "description_header": "👋 Hello, I'm Mink",
+    "description": "  I am a Computer Engineering graduate with strong determination and a proactive mindset. I have hands-on experience in software development and basic network management. My studies at Suan Sunandha Rajabhat University strengthened my programming skills in Java and Python. I am a continuous learner who actively keeps up with emerging technologies and enjoys taking on new challenges that foster both professional growth and long-term career stability.",
     "section_name": {
       "about": "About Me",
       "projects": "My Projects",
@@ -68,9 +68,9 @@
       "title": "Intern",
       "years": "13 Dec 2021 - 04 Mar 2022",
       "description": [
-        "Responsible for managing telecommunication number records within a government organization, including the cancellation of Public Numbers and User Numbers via the CRM system. Prior to cancellation, verified invoice status and accuracy through the CIP system to ensure compliance with organizational requirements.",
-        "Provided support to officers and team members in customer data management, ensuring smooth and efficient operations. Gained exposure to structured workflows and standardized processes within a large-scale organization, while developing proficiency in internal systems such as CRM and CIP.",
-        "Developed a solid understanding of government customer management systems, enhanced data verification and attention-to-detail skills, gained teamwork experience, and acquired foundational knowledge of public telecommunication services."
+        "   Responsible for managing telecommunication number records within a government organization, including the cancellation of Public Numbers and User Numbers via the CRM system. Prior to cancellation, verified invoice status and accuracy through the CIP system to ensure compliance with organizational requirements.",
+        "   Provided support to officers and team members in customer data management, ensuring smooth and efficient operations. Gained exposure to structured workflows and standardized processes within a large-scale organization, while developing proficiency in internal systems such as CRM and CIP.",
+        "   Developed a solid understanding of government customer management systems, enhanced data verification and attention-to-detail skills, gained teamwork experience, and acquired foundational knowledge of public telecommunication services."
       ],
       "technologies": ["CRM System", "CIP System", "Microsoft Office"]
     },
@@ -79,9 +79,9 @@
       "title": "Content Moderator (Work from Home)",
       "years": "25 Apr 2022 - 19 Jan 2024",
       "description": [
-        "Performed content moderation through the Azar application by randomly monitoring video calls to observe, analyze, and evaluate user behavior in accordance with company policies and standards. Identified and reported inappropriate behavior such as explicit or policy-violating actions.",
-        "Recorded incident details accurately and escalated cases to relevant departments for further action, while maintaining high levels of diligence and respecting user privacy under data protection standards.",
-        "Enhanced understanding of social platform user behavior, improved decision-making and content assessment skills, and strengthened focus and ethical responsibility in content safety operations."
+        "   Performed content moderation through the Azar application by randomly monitoring video calls to observe, analyze, and evaluate user behavior in accordance with company policies and standards. Identified and reported inappropriate behavior such as explicit or policy-violating actions.",
+        "   Recorded incident details accurately and escalated cases to relevant departments for further action, while maintaining high levels of diligence and respecting user privacy under data protection standards.",
+        "   Enhanced understanding of social platform user behavior, improved decision-making and content assessment skills, and strengthened focus and ethical responsibility in content safety operations."
       ],
       "technologies": [
         "Azar Application",
@@ -95,9 +95,9 @@
       "title": "Master TV System Operator",
       "years": "10 Jul 2024 - 2026",
       "description": [
-        "Managed and controlled television channel distribution through the Master TV system within the hotel, ensuring accurate channel configuration, audio-visual quality, and compliance with hotel standards.",
-        "Coordinated with technical teams to troubleshoot and resolve system issues, performing continuous improvements and maintenance.",
-        "Gained experience with real-time streaming protocols, Master TV control software, channel management, and hardware selection alongside system technicians to maintain optimal signal quality."
+        "   Managed and controlled television channel distribution through the Master TV system within the hotel, ensuring accurate channel configuration, audio-visual quality, and compliance with hotel standards.",
+        "   Coordinated with technical teams to troubleshoot and resolve system issues, performing continuous improvements and maintenance.",
+        "   Gained experience with real-time streaming protocols, Master TV control software, channel management, and hardware selection alongside system technicians to maintain optimal signal quality."
       ],
       "technologies": [
         "Master TV System",
@@ -111,9 +111,9 @@
       "title": "IT Support",
       "years": "03 Jul 2025 - 30 Nov 2025",
       "description": [
-        "Provided technical support for medical-related web applications used in veterinary clinics, including integration with devices such as printers, barcode scanners, and blood analyzers. Assisted with installation, routing, and configuration of system add-ons such as LINE notifications and IDEXX integrations.",
-        "Resolved computer hardware, software, and network issues within the organization, installed and configured programs, and maintained records of maintenance and installations for reporting purposes.",
-        "Developed strong technical support skills, troubleshooting expertise, and effective communication abilities when providing guidance to end users."
+        "   Provided technical support for medical-related web applications used in veterinary clinics, including integration with devices such as printers, barcode scanners, and blood analyzers. Assisted with installation, routing, and configuration of system add-ons such as LINE notifications and IDEXX integrations.",
+        "   Resolved computer hardware, software, and network issues within the organization, installed and configured programs, and maintained records of maintenance and installations for reporting purposes.",
+        "   Developed strong technical support skills, troubleshooting expertise, and effective communication abilities when providing guidance to end users."
       ],
       "technologies": [
         "Web Application Support",
