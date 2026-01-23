@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Jidapa Jueaiem",
+      "titles": [ "IT Support" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/jidapajueaiem",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mg.jdp/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+          {
+          "name": "Canva",
+          "class": "devicon-canva-original",
+          "level": "60"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "50"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "60"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Google Search",
+          "class": "devicon-chrome-plain",
+          "level": "70"
+        },
+        {
+          "name": "VSCode",
+          "class": "devicon-vscode-plain",
+          "level": "40"
+        }
+      ]
+    }
+  }
