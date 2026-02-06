@@ -15,9 +15,9 @@
         "startDate": "2025",
         "description": "ต้นแบบ การฝึกเขียนเว็บไซต์โดยใช้ปัญญาประดิษฐ์เป็นอุปกรณ์ในการช่วยสร้างภาษาที่ใช้ php เรียนรู้การออกแบบโครงสร้าง routing layer โยงการทำงานของแต่ละฟังก์ชันเพื่อให้หน้าเว็บแสดงผลอย่างถูกต้อง การตั้งค่า load balance เพื่อจัดสรรค์ทรัพยากรที่มีอย่างจำกัด (เซิร์ฟเวอร์คือคอมเก่า) และจัดหาโดเมน Secure config ตรวจ อ่าน log เพื่อทำการบล็อค ip ประสงร้าย",
         "images": [
-          "images/portfolio/create-web/p1.png",
-          "images/portfolio/create-web/p2.png",
-          "images/portfolio/create-web/p3.png"
+          "portfolio/create-web/p1.png",
+          "portfolio/create-web/p2.png",
+          "portfolio/create-web/p3.png"
         ],
         "url": "https://k-electric.in.th/",
         "technologies": [
@@ -52,8 +52,8 @@
         "startDate": "2025",
         "description": "สาขาวิชาวิศวกรรมคอมพิวเตอร์ ขอแสดงความยินดีกับ ผศ.ดร.รวิ อุตตมธนินทร์ อาจารย์ประจำสาขาวิชาวิศวกรรมคอมพิวเตอร์ นางสาวจิดาภา จุ้ยเอี่ยม นางสาววาสนา พรประภา นางสาวญาณิศา ม่วงสี ได้เข้าร่วมนำเสนองานวิจัยเรื่อง “ตู้ดูแลต้นอ่อนข้าวสาลีผ่านแอปพลิเคชันสำหรับสัตว์เลี้ยง (Wheatgrass Care Cabinet via Pet Application) และได้รับรางวัลการนำเสนอผลงานวิจัยระดับดี ในรูปแบบการบรรยาย ในงานประชุมวิชาการนําเสนอผลงานวิจัยระดับชาติเครือข่ายบัณฑิตศึกษามหาวิทยาลัยราชภัฏภาคเหนือ (GNRU ) ครั้งที่ 25 “AI มิติใหม่แห่งการศึกษาเพื่ออนาคต” จัดขึ้นระหว่างวันที่ 26 ก.ค. 2568 ณ มหาวิทยาลัยราชภัฏพิบูลสงคราม โดยสมาคมพัฒนาวิชาชีพการบริหารการศึกษาแห่งประเทศไทย (สพบท.) สมาคมวิจัยสังคมศาสตร์แห่งประเทศไทย และสมาคมวิชาชีพเทคโนโลยีและนวัตกรรมเพื่อการพัฒนาท้องถิ่น ร่วมกับเครือข่ายบัณฑิตศึกษา มหาวิทยาลัยราชภัฏ ภาคเหนือ (GNRU) ทั้ง 8 แห่ง",
         "images": [
-          "images/portfolio/photography/p2.png",
-          "images/portfolio/photography/p1.jpg"
+          "portfolio/photography/p2.png",
+          "portfolio/photography/p1.jpg"
         ],
         "url": "https://www.facebook.com/share/p/18otkd6zPR/",
         "technologies": [
@@ -72,12 +72,12 @@
         "startDate": "2025",
         "description": "ตัวอย่าง จัดทำสื่อแนะนำการใช้งานโปรแกรมสำเร็จรูป <a href=\"https://youtu.be/0VGTSzOGlJQ\">การใช้งานเทมเพลตการรักษาสำเร็จรูป</a> ทำสื่อการสอนเสียงภาษาไทย <a href=\"https://youtu.be/16I2XkXVF70?si=Dfi_KrsJXv7Zpt0U\">คู่มือ Blood Gas Analyzer Operation</a> จัดทำคลิปสอนการแก้ไขปัญหาเบื้องต้นให้กับพี่พนักงาน <a href=\"https://youtu.be/0Vsb5780ZoY\">Restore Zoncare Ultrasound</a> งานอดิเรก <a href=\"https://www.tiktok.com/@maneemaikrub\">Tiktok</a> จัดทำสื่อเพื่อโฆษณาเมื่อมีกิจกรรมต่างๆ <a href=\"https://www.canva.com/design/DAGzCfECuMQ/ERVuu0Jc0wZfJyJhYI4QYA/view?utm_content=DAGzCfECuMQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc4823c3207\">ตัวอย่างโปสเตอร์</a> <a href=\"https://www.canva.com/design/DAG05kYJyP4/mINcSETaZiHIrQR5jnzw5A/watch?utm_content=DAG05kYJyP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h878e3fe98b\">ตัวอย่างสื่อลงในโซเซียลมีเดีย</a>",
         "images": [
-          "images/portfolio/create-video/p1.png",
-          "images/portfolio/create-video/p2.png",
-          "images/portfolio/create-video/p3.png",
-          "images/portfolio/create-video/p4.png",
-          "images/portfolio/create-video/p5.png",
-          "images/portfolio/create-video/p6.png"
+          "portfolio/create-video/p1.png",
+          "portfolio/create-video/p2.png",
+          "portfolio/create-video/p3.png",
+          "portfolio/create-video/p4.png",
+          "portfolio/create-video/p5.png",
+          "portfolio/create-video/p6.png"
 
         ],
         "url": "https://www.youtube.com/@Maligee-zy",

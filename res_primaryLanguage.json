@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "👋 Hello, I'm Mink",
-    "description": "  I am a Computer Engineering graduate with strong determination and a proactive mindset. I have hands-on experience in software development and basic network management. My studies at Suan Sunandha Rajabhat University strengthened my programming skills in Java and Python. I am a continuous learner who actively keeps up with emerging technologies and enjoys taking on new challenges that foster both professional growth and long-term career stability.",
+    "description_header": "👋 Sawatdee ka, I'm Mink",
+    "description": "I am currently pursuing a degree in Computer Engineering at Suan Sunandha Rajabhat University. I have built a solid foundation in Java and Python through coursework and academic projects. I also have basic knowledge of network management. I am a proactive learner eager to gain real-world experience and apply my skills to solve practical problems.",
     "section_name": {
       "about": "About Me",
       "projects": "My Projects",
@@ -15,9 +15,9 @@
       "startDate": "2025",
       "description": "A prototype project focused on practicing website development with the support of AI-assisted coding tools using PHP. Gained experience in designing routing layers and linking system functions to ensure correct page rendering. Implemented load balancing to efficiently allocate limited resources (using an old PC as a server), configured secure domain settings, analyzed server logs, and blocked malicious IP addresses.",
       "images": [
-        "images/portfolio/create-web/p1.png",
-        "images/portfolio/create-web/p2.png",
-        "images/portfolio/create-web/p3.png"
+        "portfolio/create-web/p1.png",
+        "portfolio/create-web/p2.png",
+        "portfolio/create-web/p3.png"
       ],
       "url": "https://k-electric.in.th/",
       "technologies": [
@@ -34,8 +34,8 @@
       "startDate": "2025",
       "description": "Computer Engineering research project titled “Wheatgrass Care Cabinet via Pet Application,” presented by Asst. Prof. Dr. Ravi Uttamathanin and research team members at the 25th National Graduate Research Conference (GNRU) under the theme “AI: A New Dimension of Education for the Future.” The project received a ‘Very Good’ presentation award in the oral presentation category.",
       "images": [
-        "images/portfolio/photography/p2.png",
-        "images/portfolio/photography/p1.jpg"
+        "portfolio/photography/p2.png",
+        "portfolio/photography/p1.jpg"
       ],
       "url": "https://www.facebook.com/share/p/18otkd6zPR/",
       "technologies": [
@@ -48,12 +48,12 @@
       "startDate": "2025",
       "description": "Created instructional media for off-the-shelf software usage <a href=\"https://youtu.be/0VGTSzOGlJQ\">Pre-configured Treatment Template Usage</a>. Produced Thai-language voice-over training media <a href=\"https://youtu.be/16I2XkXVF70?si=Dfi_KrsJXv7Zpt0U\">Blood Gas Analyzer Operation Manual</a>. Created troubleshooting tutorial videos for internal staff <a href=\"https://youtu.be/0Vsb5780ZoY\">Zoncare Ultrasound System Restore</a>.",
       "images": [
-        "images/portfolio/create-video/p1.png",
-        "images/portfolio/create-video/p2.png",
-        "images/portfolio/create-video/p3.png",
-        "images/portfolio/create-video/p4.png",
-        "images/portfolio/create-video/p5.png",
-        "images/portfolio/create-video/p6.png"
+        "portfolio/create-video/p1.png",
+        "portfolio/create-video/p2.png",
+        "portfolio/create-video/p3.png",
+        "portfolio/create-video/p4.png",
+        "portfolio/create-video/p5.png",
+        "portfolio/create-video/p6.png"
       ],
       "url": "https://www.youtube.com/@Maligee-zy",
       "technologies": [
